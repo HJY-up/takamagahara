@@ -25,3 +25,7 @@ python -m http.server 8000
 
 - 全部数据存放在浏览器 `localStorage`，清除站点数据会一并清空，不上传任何服务器。
 - 开启 AI 后，内容会直连你在设置里填写的接口地址；密钥同样只存在本地。
+
+## 许可证
+
+MIT © 2026 HJY-up · 详见 [LICENSE](LICENSE)
